@@ -1,0 +1,10 @@
+Username: emp
+Password: emp
+Name: Darius Fabian
+Age: 18
+Sex: M
+Date of Birth: 10/5/2002
+CNIC: 34201-0891231-8
+Email: emp@gmail.com,
+Phone number: 0333-3141314
+Balance: 992.8

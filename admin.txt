@@ -1,0 +1,10 @@
+Username: nlzza
+Password: NlZzA
+Name: Muhammad Moaaz bin Sajjad
+Age: 25
+Sex: M
+Date of Birth: 12/14/1995
+CNIC: 42201-8035774-1
+Email: moaaz88sajjad@gmail.com
+Phone number: 0335-2742254
+Balance: 1000

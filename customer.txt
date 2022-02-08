@@ -1,0 +1,10 @@
+Username: saad
+Password: saad
+Name: Saad bin Khalid
+Age: 20
+Sex: M
+Date of birth: 5/10/2002
+CNIC: 34221-0891231-8
+Email: saad@gmail.com,
+Phone number: 0300-2156789
+Balance: 785

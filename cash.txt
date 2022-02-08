@@ -1,0 +1,4 @@
+Initial cash: 10000
+Cash in: 0
+Cash out: 0
+Final cash: 10000

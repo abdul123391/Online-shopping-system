@@ -1,0 +1,70 @@
+Name: Vegetables
+Stock: 196
+Cost: 3
+Price: 5
+Reorder Level: 100
+Reorder Amount: 100
+
+Name: Fruits
+Stock: 174
+Cost: 2.5
+Price: 4
+Reorder Level: 150
+Reorder Amount: 200
+
+Name: Lentils
+Stock: 300
+Cost: 5
+Price: 8
+Reorder Level: 200
+Reorder Amount: 250
+
+Name: Cereals
+Stock: 100
+Cost: 8
+Price: 10
+Reorder Level: 50
+Reorder Amount: 100
+
+Name: Oils
+Stock: 350
+Cost: 4
+Price: 6.5
+Reorder Level: 200
+Reorder Amount: 300
+
+Name: Eggs
+Stock: 40
+Cost: 2
+Price: 3.5
+Reorder Level: 100
+Reorder Amount: 100
+
+Name: Butter
+Stock: 66
+Cost: 2.5
+Price: 4
+Reorder Level: 50
+Reorder Amount: 100
+
+Name: Bread
+Stock: 150
+Cost: 3
+Price: 4.5
+Reorder Level: 100
+Reorder Amount: 100
+
+Name: Milk
+Stock: 175
+Cost: 1.5
+Price: 3
+Reorder Level: 150
+Reorder Amount: 200
+
+Name: Rice
+Stock: 45
+Cost: 4
+Price: 7
+Reorder Level: 100
+Reorder Amount: 150
+
